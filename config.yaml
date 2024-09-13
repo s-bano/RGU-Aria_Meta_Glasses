@@ -1,0 +1,31 @@
+path: D:\International Trainings-Projects\United Kingdom (UK)\Robert Gordon University\1\RGU project-Meta Glasses\Project\data
+
+train: images/Train  # Training dataset
+val: images/Train      # Separate validation dataset
+
+# Classes
+names:
+  0: laptop
+  1: smartphone
+  2: mouse
+  3: keyboard
+  4: chair
+  5: backpack
+  6: Papers
+  7: table
+  8: lamp
+  9: Cup
+  10: Toy
+  11: Poster
+  12: Fridge
+  13: Bin
+  14: Microwave
+  15: TV
+  16: Fire Extinguisher
+  17: Directory
+  18: Clipboard
+  19: Wall clock
+  20: White board
+  21: Kettle
+  22: Pillow
+  23: Salah

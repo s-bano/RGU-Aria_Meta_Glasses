@@ -72,7 +72,7 @@ For yolov8n package installation check:
 - **Live Sensor Data:** Utilize live sensor data once Wi-Fi streaming is stabilized.
 
 ## RGU Report link
-``` https://www.canva.com/design/DAGOk5RxCtY/gdVG17crzls2OmbXX4iHGg/edit?utm_content=DAGOk5RxCtY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton ```
+![RGU Report](https://github.com/SalahElshafey/RGU-Aria-Meta-Glasses-Object-Recognition-in-Daily-Life/blob/main/Readme%20images/3.png?raw=true)
 ## Contact Information
 For more details or inquiries, please contact:
 - Salah Elshafey
